@@ -27,7 +27,7 @@ namespace calculator
             double no1 = double.Parse(txt1.Text);
             double no2 = double.Parse(txt2.Text);
             double sum = no1 + no2;
-            lblanswer.Text = "Answer is "+ sum.ToString(); 
+            lblanswer.Text = "Addition = "+ sum.ToString(); 
 
 
         }
@@ -40,6 +40,26 @@ namespace calculator
         private void txt2_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            double no1 = double.Parse(txt1.Text);
+            double no2 = double.Parse(txt2.Text);
+            double sum = no1 - no2;
+            lblanswer.Text = "Substract = " + sum.ToString();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            txt1.Text = "";
+            txt2.Text = "";
+            lblanswer.Text = "";
         }
     }
 }
