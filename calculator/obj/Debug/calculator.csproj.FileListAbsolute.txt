@@ -8,3 +8,13 @@ C:\Users\DELL5\source\repos\calculator\calculator\obj\Debug\calculator.csproj.Ge
 C:\Users\DELL5\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
 C:\Users\DELL5\source\repos\calculator\calculator\obj\Debug\calculator.exe
 C:\Users\DELL5\source\repos\calculator\calculator\obj\Debug\calculator.pdb
+D:\Github\C# Calculator\C-sharp-calculator\calculator\bin\Debug\calculator.exe.config
+D:\Github\C# Calculator\C-sharp-calculator\calculator\bin\Debug\calculator.exe
+D:\Github\C# Calculator\C-sharp-calculator\calculator\bin\Debug\calculator.pdb
+D:\Github\C# Calculator\C-sharp-calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+D:\Github\C# Calculator\C-sharp-calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Github\C# Calculator\C-sharp-calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Github\C# Calculator\C-sharp-calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\Github\C# Calculator\C-sharp-calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\Github\C# Calculator\C-sharp-calculator\calculator\obj\Debug\calculator.exe
+D:\Github\C# Calculator\C-sharp-calculator\calculator\obj\Debug\calculator.pdb
