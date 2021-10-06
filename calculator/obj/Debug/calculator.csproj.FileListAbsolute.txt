@@ -28,3 +28,13 @@ C:\Users\USER\Desktop\github\C-sharp-calculator\calculator\obj\Debug\calculator.
 C:\Users\USER\Desktop\github\C-sharp-calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
 C:\Users\USER\Desktop\github\C-sharp-calculator\calculator\obj\Debug\calculator.exe
 C:\Users\USER\Desktop\github\C-sharp-calculator\calculator\obj\Debug\calculator.pdb
+C:\Users\Indika Thilakarathna\Desktop\New folder (2)\C-sharp-calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Indika Thilakarathna\Desktop\New folder (2)\C-sharp-calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Indika Thilakarathna\Desktop\New folder (2)\C-sharp-calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Indika Thilakarathna\Desktop\New folder (2)\C-sharp-calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\Indika Thilakarathna\Desktop\New folder (2)\C-sharp-calculator\calculator\obj\Debug\calculator.Form1.resources
+C:\Users\Indika Thilakarathna\Desktop\New folder (2)\C-sharp-calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+C:\Users\Indika Thilakarathna\Desktop\New folder (2)\C-sharp-calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+C:\Users\Indika Thilakarathna\Desktop\New folder (2)\C-sharp-calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Indika Thilakarathna\Desktop\New folder (2)\C-sharp-calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Indika Thilakarathna\Desktop\New folder (2)\C-sharp-calculator\calculator\obj\Debug\calculator.pdb
