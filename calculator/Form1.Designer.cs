@@ -83,7 +83,7 @@ namespace calculator
             // 
             this.button1.BackColor = System.Drawing.Color.LightSkyBlue;
             this.button1.Location = new System.Drawing.Point(505, 65);
-            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button1.Margin = new System.Windows.Forms.Padding(2);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(76, 38);
             this.button1.TabIndex = 3;
@@ -95,7 +95,7 @@ namespace calculator
             // 
             this.button2.BackColor = System.Drawing.Color.LightSkyBlue;
             this.button2.Location = new System.Drawing.Point(505, 131);
-            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(76, 38);
             this.button2.TabIndex = 4;
@@ -107,7 +107,7 @@ namespace calculator
             // 
             this.button3.BackColor = System.Drawing.Color.LightSkyBlue;
             this.button3.Location = new System.Drawing.Point(505, 197);
-            this.button3.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button3.Margin = new System.Windows.Forms.Padding(2);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(76, 38);
             this.button3.TabIndex = 5;
@@ -119,18 +119,19 @@ namespace calculator
             // 
             this.button4.BackColor = System.Drawing.Color.LightSkyBlue;
             this.button4.Location = new System.Drawing.Point(505, 258);
-            this.button4.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button4.Margin = new System.Windows.Forms.Padding(2);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(76, 38);
             this.button4.TabIndex = 6;
             this.button4.Text = "Div";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button5
             // 
             this.button5.BackColor = System.Drawing.Color.LightSkyBlue;
             this.button5.Location = new System.Drawing.Point(505, 318);
-            this.button5.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button5.Margin = new System.Windows.Forms.Padding(2);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(76, 38);
             this.button5.TabIndex = 7;
@@ -142,7 +143,7 @@ namespace calculator
             // 
             this.txt1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt1.Location = new System.Drawing.Point(238, 131);
-            this.txt1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txt1.Margin = new System.Windows.Forms.Padding(2);
             this.txt1.Name = "txt1";
             this.txt1.Size = new System.Drawing.Size(116, 26);
             this.txt1.TabIndex = 8;
@@ -152,7 +153,7 @@ namespace calculator
             // 
             this.txt2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt2.Location = new System.Drawing.Point(238, 184);
-            this.txt2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.txt2.Margin = new System.Windows.Forms.Padding(2);
             this.txt2.Name = "txt2";
             this.txt2.Size = new System.Drawing.Size(116, 26);
             this.txt2.TabIndex = 9;
@@ -184,7 +185,7 @@ namespace calculator
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);

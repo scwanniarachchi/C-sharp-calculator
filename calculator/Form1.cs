@@ -64,5 +64,13 @@ namespace calculator
             txt2.Text = "";
             lblanswer.Text = "";
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            double no1 = double.Parse(txt1.Text);
+            double no2 = double.Parse(txt2.Text);
+            double div = no1 / no2;
+            lblanswer.Text = "Division = " + div.ToString();
+        }
     }
 }
