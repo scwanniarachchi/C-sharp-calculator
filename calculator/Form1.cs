@@ -52,7 +52,10 @@ namespace calculator
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            double no1 = double.Parse(txt1.Text);
+            double no2 = double.Parse(txt2.Text);
+            double mul = no1 * no2;
+            lblanswer.Text = "Multiplication = " + mul.ToString();
         }
 
         private void button5_Click(object sender, EventArgs e)
